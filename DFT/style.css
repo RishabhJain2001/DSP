@@ -1,0 +1,50 @@
+ * {
+     margin: 0;
+     padding: 0;
+ }
+ 
+ .navbar {
+     text-align: center;
+ }
+ 
+ .content {
+     text-align: center;
+     padding: 2rem 0;
+ }
+ 
+ #number {
+     width: 30rem;
+     height: 5rem;
+     font-size: 2rem;
+ }
+ 
+ .get-sequence {
+     width: 100%;
+     height: 5rem;
+     font-size: 2rem;
+ }
+ 
+ #Submit {
+     margin-top: 3rem;
+     width: 10rem;
+     height: 2rem;
+     font-size: 1rem;
+     color: black;
+ }
+ 
+ .submit-sequence {
+     margin-top: 3rem;
+     width: 10rem;
+     height: 2rem;
+     font-size: 1rem;
+ }
+ 
+ .dft {
+     font-size: 1.2rem;
+     border: 1px solid black;
+     margin: 3rem 1.5rem;
+ }
+ 
+ .dividing {
+     margin: 1rem 0;
+ }
